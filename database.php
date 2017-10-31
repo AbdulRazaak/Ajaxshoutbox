@@ -3,7 +3,7 @@
 $host = 'localhost';
 $user = 'root';
 $password = '';
-$database = 'jsshoutbox'
+$database = 'jsshoutbox';
 
 $con = mysqli_connect($host,$user,$password,$database);
 
